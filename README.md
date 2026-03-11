@@ -4,7 +4,7 @@ This project is a business analytics case study focused on understanding and imp
 
 🧰 Tools & Technologies
 Python (Pandas, Matplotlib, Seaborn)
-VS Code
+Google Colab
 Excel / Google Sheets
 Data Cleaning & Visualization
 
